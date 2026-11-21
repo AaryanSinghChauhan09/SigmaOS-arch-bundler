@@ -1,4 +1,4 @@
-use arch_bundler::Component;
+use sigmaos_bundler::Component;
 
 #[test]
 fn test_component_new_aaa() {

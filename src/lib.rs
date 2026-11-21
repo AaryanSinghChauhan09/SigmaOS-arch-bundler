@@ -1,4 +1,4 @@
-//! SigmaOS-arch-bundler — arch-bundler component
+//! SigmaOS-bundler — bundler component
 //!
 //! Part of the SigmaOS multi-repository component ecosystem. This crate
 //! declares its interface in `COMPONENT.toml` (`provides` / `depends_on`).

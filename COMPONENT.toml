@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-bundler"
+name = "SigmaOS-bundler"
 tier = 2
 stability = "scaffold"
 language = "rust"
